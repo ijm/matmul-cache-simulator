@@ -1,0 +1,15 @@
+
+
+commands to build the vids in the articles - Tidy these up into a makefile or script.
+
+python simulator.py -c 0,24 -ord 'iijjkk' -f out-16-6-12-ijk -i 4 4 -j 3 2 -k 3 4
+
+python simulator.py -c 0,24 -ord 'kkiijj' -f out-16-6-12-kij -i 4 4 -j 3 2 -k 3 4
+
+python simulator.py -c 0,24 -ord 'ijkijk' -f out-16-6-12-ijkijk -i 4 4 -j 3 2 -k 3 4
+
+ python simulator.py -c 0,24 3,24 -l 0,1 -ord 'ijkijk' -f out-L2-16-8-16-ijkijk -i 4 4 -j 4 2 -k 4 4
+
+
+
+
